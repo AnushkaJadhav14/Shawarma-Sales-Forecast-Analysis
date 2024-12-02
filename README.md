@@ -48,9 +48,13 @@ Break down sales patterns to see seasonal trends, like busy or slow times.
 
 **DASHBOARD FEATURES**:
 Revenue Trends: A line chart showing how earnings change over time.
+
 Sales Forecast: A line chart predicting future sales with a range of possible outcomes.
+
 Item Insights: A pie chart showing how much each item contributes to earnings.
+
 Custom Filters: Options to filter data by date, item type for detailed views.
+
 
 
 **Here are screenshots of the project:**
