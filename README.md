@@ -2,8 +2,10 @@
  This analysis uses past sales data to predict future shawarma sales, helping improve sales and efficiency with Power BI’s tools like charts, trends, and forecasts.
  The analysis is done using PowerBI Desktop.
 
+
 **OBJECTIVE:**
 The goal is to study and predict Shawarma sales to make better decisions about stocking ingredients, planning promotions, and managing resources to increase profits.
+
 
 
 **DATASET DESCRIPTION:**
@@ -30,6 +32,7 @@ Forecast models for future Shawarma demand.
 Performance metrics by menu item.
 
 
+
 **DATA ANALYSIS:**
 1. **Exploratory Data Analysis (EDA)**:
 Analyze sales trends over time (daily, weekly, and monthly).
@@ -46,7 +49,9 @@ Use historical data to predict future sales trends.
 Break down sales patterns to see seasonal trends, like busy or slow times.
 
 
+
 **DASHBOARD FEATURES**:
+
 Revenue Trends: A line chart showing how earnings change over time.
 
 Sales Forecast: A line chart predicting future sales with a range of possible outcomes.
