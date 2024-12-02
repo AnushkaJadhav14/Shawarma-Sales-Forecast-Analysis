@@ -1,0 +1,135 @@
+Code,Category,Item,Price
+1,Veg Shawarma,Classic Paneer Shawarma (6 Inches),100
+1,Veg Shawarma,Classic Paneer Shawarma (8 Inches),145
+2,Veg Shawarma,Lebanese Paneer Shawarma (6 Inches),120
+2,Veg Shawarma,Lebanese Paneer Shawarma (8 Inches),145
+3,Veg Shawarma,Peri Peri Paneer Shawarma(6 Inches),120
+3,Veg Shawarma,Peri Peri Paneer Shawarma(8 Inches),145
+4,Veg Shawarma,Tandoori Paneer Shawarma(6 Inches),120
+4,Veg Shawarma,Tandoori Paneer Shawarma(8 Inches),145
+5,Veg Shawarma,BBQ Paneer Shawarma(6 Inches),120
+5,Veg Shawarma,BBQ Paneer Shawarma(8 Inches),145
+6,Veg Shawarma,Falafel Shawarma(6 Inches),110
+6,Veg Shawarma,Falafel Shawarma(8 Inches),150
+7,Veg Shawarma,Aloo Tikki Shawarma(6 Inches),100
+7,Veg Shawarma,Aloo Tikki Shawarma(8 Inches),145
+8,Veg Shawarma,Overseas Paneer Shawarma(6 Inches),130
+8,Veg Shawarma,Overseas Paneer Shawarma(8 Inches),160
+9,Veg Shawarma,Cheese Burst Shawarma(6 Inches),140
+9,Veg Shawarma,Cheese Burst Shawarma(8 Inches),170
+10,Non Veg Shawarma,Classic Chicken Shawarma (6 Inches),100
+10,Non Veg Shawarma,Classic Chicken Shawarma (8 Inches),145
+11,Non Veg Shawarma,Lebanese Chicken Shawarma (6 Inches),120
+11,Non Veg Shawarma,Lebanese Chicken Shawarma (8 Inches),155
+12,Non Veg Shawarma,Peri Peri Chicken Shawarma(6 Inches),120
+12,Non Veg Shawarma,Peri Peri Chicken Shawarma(8 Inches),155
+13,Non Veg Shawarma,Tandoori Chicken Shawarma(6 Inches),120
+13,Non Veg Shawarma,Tandoori Chicken Shawarma(8 Inches),155
+14,Non Veg Shawarma,BBQ Chicken Shawarma(6 Inches),120
+14,Non Veg Shawarma,BBQ Chicken Shawarma(8 Inches),155
+15,Non Veg Shawarma,Butter Chicken Shawarma(6 Inches),130
+15,Non Veg Shawarma,Butter Chicken Shawarma(8 Inches),160
+16,Non Veg Shawarma,Chingari Chicken Shawarma(6 Inches),110
+16,Non Veg Shawarma,Chingari Chicken Shawarma(8 Inches),150
+17,Non Veg Shawarma,Chicken Tikka Shawarma(6 Inches),130
+17,Non Veg Shawarma,Chicken Tikka Shawarma(8 Inches),160
+18,Non Veg Shawarma,Overseas Chicken Shawarma(6 Inches),130
+18,Non Veg Shawarma,Overseas Chicken Shawarma(8 Inches),160
+19,Non Veg Shawarma,Cheese Burst Chicken Shawarma(6 Inches),140
+19,Non Veg Shawarma,Cheese Burst Chicken Shawarma(8 Inches),170
+20,Non Veg Shawarma,Egg N' Spread Shawarma(6 Inches),120
+20,Non Veg Shawarma,Egg N' Spread Shawarma(8 Inches),155
+21,Non Veg Shawarma,Double Hunger Chicken Shawarma(6 Inches),140
+21,Non Veg Shawarma,Double Hunger Chicken Shawarma(8 Inches),170
+22,Non Veg Shawarma,Chicken Nuggets Shawarma(6 Inches),140
+22,Non Veg Shawarma,Chicken Nuggets Shawarma(8 Inches),170
+23,Non Veg Shawarma,Chicken Crispy Shawarma(6 Inches),140
+23,Non Veg Shawarma,Chicken Crispy Shawarma(8 Inches),170
+24,Non Veg Shawarma,Maharaja Chicken Shawarma(6 Inches),200
+25,Platters,Chicken Hummus Platter,220
+26,Platters,Chicken Tandoori Tikka Platter,250
+27,Platters,Falafel Hummus Platter,220
+28,Dessert,Kulfi,30
+29,Dessert,Custard,45
+30,Open Veg Shawarma,Classic Paneer Open Shawarma,170
+31,Open Veg Shawarma,Peri Peri Paneer Open Shawarma,180
+32,Open Veg Shawarma,Paneer Cheese Burst Open Shawarma,190
+33,Open Veg Shawarma,Falafel Open Shawarma,200
+34,Open Veg Shawarma,Aloo Tikki Open Shawarma,210
+35,Open Non Veg Shawarma,Classic Chicken Open Shawarma,190
+36,Open Non Veg Shawarma,Peri Peri Chicken Open Shawarma,200
+37,Open Non Veg Shawarma,Chicken Cheese Burst Open Shawarma,210
+38,Open Non Veg Shawarma,Chicken Nuggets Open Shawarma,200
+39,Open Non Veg Shawarma,Chicken Crispy Open Shawarma,250
+40,Veg Salad,Classic Paneer Salad,190
+41,Veg Salad,Choice Salad (Peri Peri),200
+42,Veg Salad,Choice Salad (BBQ),200
+43,Veg Salad,Choice Salad (Tandoori),200
+44,Veg Salad,Overseas Paneer Salad,210
+45,Veg Salad,Gym Bro Diet Salad,200
+46,Veg Salad,Falafel Salad,250
+48,Non Veg Salad,Choice Chicken Salad (Peri Peri),200
+49,Non Veg Salad,Choice Chicken Salad (BBQ),200
+50,Non Veg Salad,Choice Chicken Salad (Tandoori),200
+51,Non Veg Salad,Overseas Chicken Salad,210
+52,Non Veg Salad,Non Veg Gym Bro Diet Salad,200
+53,Non Veg Salad,Chicken Tandoori Tikka Salad,250
+54,Fries,Salted Fries (R),100
+54,Fries,Salted Fries (L),150
+55,Fries,Peri Peri Fries (R),110
+55,Fries,Peri Peri Fries (L),160
+56,Fries,Cheese Burst Fries (R),130
+56,Fries,Cheese Burst Fries (L),170
+57,Fries,Peri-Cheesy Fries (R),140
+57,Fries,Peri-Cheesy Fries (L),180
+58,Fries,Overseas Kick Fries (R),150
+58,Fries,Overseas Kick Fries (L),200
+61,Extras,Mayo,20
+62,Extras,Cheese,30
+63,Extras,Chicken,30
+64,Extras,Pita Bread(6 Inches),10
+64,Extras,Pita Bread(8 Inches),20
+65,Veg Momos,Paneer Delight Fried Momos (Half),70
+65,Veg Momos,Paneer Delight Fried Momos (Full),120
+66,Veg Momos,Paneer Cheese Chilly Fried Momos (Half),90
+66,Veg Momos,Paneer Cheese Chilly Fried Momos (Full),160
+67,Veg Momos,Soya Fried Momos (Half),60
+67,Veg Momos,Soya Fried Momos (Full),100
+68,Veg Momos,Paneer Kurkure Fried Momos (Half),90
+68,Veg Momos,Paneer Kurkure Fried Momos (Full),170
+71,Non Veg Momos,Classic Chicken Steamed Momos (Half),60
+71,Non Veg Momos,Classic Chicken Steamed Momos (Full),100
+72,Non Veg Momos,Chicken Cheese Burst Steamed Momos (Half),70
+72,Non Veg Momos,Chicken Cheese Burst Steamed Momos (Full),120
+73,Non Veg Momos,Chicken Tibetian Steamed Momos (Half),80
+73,Non Veg Momos,Chicken Tibetian Steamed Momos (Full),130
+74,Non Veg Momos,Sanji Prawns Steamed Momos (Half),60
+74,Non Veg Momos,Sanji Prawns Steamed Momos (Full),100
+75,Non Veg Momos,Classic Chicken Fried Momos (Half),70
+75,Non Veg Momos,Classic Chicken Fried Momos (Full),120
+76,Non Veg Momos,Chicken Cheese Burst Fried Momos (Half),80
+76,Non Veg Momos,Chicken Cheese Burst Fried Momos (Full),130
+77,Non Veg Momos,Chicken Tibetian Fried Momos (Half),90
+77,Non Veg Momos,Chicken Tibetian Fried Momos (Full),150
+78,Non Veg Momos,Chicken Kurkure Fried Momos (Half),90
+78,Non Veg Momos,Chicken Kurkure Fried Momos (Full),160
+79,Non Veg Momos,Sanji Prawns Fried Momos (Half),100
+79,Non Veg Momos,Sanji Prawns Fried Momos (Full),170
+80,Veg Grillers,Paneer Tikka Griller,160
+81,Veg Grillers,Paneer P3 Griller,180
+82,Non Veg Grillers,Classic Chicken Griller,160
+83,Non Veg Grillers,Chicken Tandoori Tikka Griller,180
+84,Veg Rice Bowl,Paneer Shawarma Rice Bowl,200
+85,Non Veg Rice Bowl,Chicken Shawarma Rice Bowl,200
+86,Coolers,Mojito,120
+87,Coolers,Green Apple,120
+88,Coolers,Blue Lagoon,120
+89,Coolers,Cranberry,120
+90,Frappes,Coffee Frappe 100,100
+91,Frappes,Chocolate Frappe,120
+92,Frappes,Oreo Frappe 130,130
+93,Frappes,KitKat Crunch Frappe,150
+94,Frappes,Strawberry Frappe,150
+97,Beverages,Banta Soda,240
+100,Beverages,Water Bottle 500ml,40
+101,Beverages,Water Bottle 1 Ltr,60
